@@ -1,8 +1,10 @@
-:wave: Hi, I'am Sornkrit Luadsakul
-==========================================================================================================================================
+# 👋 Hi, I'am Sornkrit Luadsakul
+
+👩🏻‍🎓 Studied Mechatronics Engineering at the KMUTT, Thailand <br/>
+💭 I am currently learning about data engineering and seeking a position as a Data Engineer.
 
 
-## 🌐 Socials:
+## 🌏 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaefgr) 
 
 # 💻 Tech Stack:
