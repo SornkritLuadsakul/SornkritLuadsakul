@@ -4,11 +4,13 @@
 Continuously learning and building skills while seeking a role as a Data Engineer.
 
 ### 🌱 What I'm Learning
-👩🏻‍🎓 Data Collection & Data Cleansing with Apache Spark <br/>
-🌊 Data Lake on Google Cloud Storage <br/>
-🔄 Automated Data Pipeline with Apache Airflow <br/>
-🏢 Data Warehouse with BigQuery <br/>
-📈 Building Dashboard with Looker Studio
+- Data Collection & Data Cleansing with Apache Spark <br/>
+- Data Lake on Google Cloud Storage <br/>
+- Automated Data Pipeline with Apache Airflow <br/>
+- Data Warehouse with BigQuery <br/>
+- Building Dashboard with Looker Studio
+
+#### 😵 Currently, I am learning how to create projects on the Microsoft Azure Platform. 
 
 
 ## 🌏 Socials:
