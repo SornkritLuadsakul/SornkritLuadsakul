@@ -10,8 +10,6 @@ Continuously learning and building skills while seeking a role as a Data Enginee
 - Data Warehouse with BigQuery <br/>
 - Building Dashboard with Looker Studio
 
-#### 😵 Currently, I am learning how to create projects on the Microsoft Azure Platform. 
-
 
 ## 🌏 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaefgr) 
